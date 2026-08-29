@@ -7,7 +7,7 @@
         "app_version": "0",
         "message": "New update available!",
         "message_url": "https:\/\/example.com\/update",
-        "share_message": "Share Message",
+        "share_message": "https:\/\/dubemore.xyz\/",
         "bottom_visible": "no",
         "msg_visible": "yes",
         "score_visible": "no",
