@@ -3,7 +3,7 @@
         "id": "1",
         "ads_data": "{\"sdk_key\":\"igg\",\"banner_ad_id\":\"xkx\",\"inter_ad_id\":\"fcfk\",\"native_ad_id\":\"xkx\"}",
         "download_url": "https:\/\/dubemore.xyz\/",
-        "web_url": "https:\/\/example.com",
+        "web_url": "https:\/\/dubemore.xyz\/",
         "app_version": "0",
         "message": "New update available!",
         "message_url": "https:\/\/example.com\/update",
