@@ -5,7 +5,7 @@
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.pro.puzzle.live.dubloxu.dupro",
         "web_url": "https:\/\/dubemore.xyz\/",
         "app_version": "0",
-        "message": "Loving the live Streams? A 5-star rating helps other fans find Dofu Stream too!",
+        "message": "One Tap, Big Impact - If Sideline is your game-day companion, rate us 5 stars. It means everything to us!",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.pro.puzzle.live.dubloxu.dupro",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.pro.puzzle.live.dubloxu.dupro",
         "bottom_visible": "no",
