@@ -5,7 +5,7 @@
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.pro.puzzle.live.dubloxu.dupro",
         "web_url": "https:\/\/dubemore.xyz\/",
         "app_version": "29",
-        "message": "One Tap, Big Impact - If Dofu is your game-day companion, rate us 5 stars. It means everything to us!",
+        "message": "A new version is ready with a fresh look, followed teams and a faster player. Update to keep watching.",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.pro.puzzle.live.dubloxu.dupro",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.pro.puzzle.live.dubloxu.dupro",
         "bottom_visible": "no",
