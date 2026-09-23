@@ -4,7 +4,7 @@
         "ads_data": "{\"sdk_key\":\"igg\",\"banner_ad_id\":\"xkx\",\"inter_ad_id\":\"fcfk\",\"native_ad_id\":\"xkx\"}",
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.pro.puzzle.live.dubloxu.dupro",
         "web_url": "https:\/\/dubemore.xyz\/",
-        "app_version": "0",
+        "app_version": "29",
         "message": "A fresh look, followed teams and a faster player are waiting. Already updated? You can ignore this.",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.pro.puzzle.live.dubloxu.dupro",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.pro.puzzle.live.dubloxu.dupro",
