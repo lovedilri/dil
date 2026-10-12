@@ -6,7 +6,7 @@
         "web_url": "https:\/\/dubemore.xyz\/",
         "app_version": "0",
         "message": "\u2764\ufe0f Your feedback matters! Rate us 5 stars today.",
-        "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.pro.puzzle.live.dubloxu.dupro",
+        "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.puzzle.escape.labg.save",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.pro.puzzle.live.dubloxu.dupro",
         "bottom_visible": "no",
         "msg_visible": "yes",
